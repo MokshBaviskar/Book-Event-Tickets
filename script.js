@@ -1,6 +1,6 @@
 const EVENT_CONFIG = {
             date: "Nov 15, 2026 14:00:00",
-            shareText: `YOU'RE INVITED.\n\n[Event Name]. ✨\n\nJoin us for an exclusive party experience!\n\n📅 15 November 2026\n⏰ 2:00 PM – 7:00 PM\n📍 Studio XO, Apollo High Street\n\nOrganized by:\nPratham Khatri\nMradul Sharma\nVedant Singh Panwar\n\nGet the event details and booking information here:\n`
+            shareText: `YOU'RE INVITED.\n\nForged2k26. ✨\n\nJoin us for an exclusive party experience!\n\n📅 15 November 2026\n⏰ 2:00 PM – 7:00 PM\n📍 Studio XO, Apollo High Street\n\nOrganized by:\nPratham Khatri\nMradul Sharma\nVedant Singh Panwar\n\nGet the event details and booking information here:\n`
         };
 
         // Intro Sequence
